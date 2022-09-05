@@ -36,5 +36,3 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
     See the License for the specific language governing permissions and
     limitations under the License.
 
-
-https://i.imgur.com/nJPmeWI.gif
